@@ -1,6 +1,6 @@
 /*Media Query  */
 .bg {
-    background: url(/rss/aa.jpg);
+    background: url(aa.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
